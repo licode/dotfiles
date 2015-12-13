@@ -284,5 +284,9 @@ Host 10idu-ws1
     LocalForward 13001 localhost:4000
 
 
-Host da
+Host danallan
     Hostname danallan.com
+
+Host mobtown
+    # note: this uses the key id_rsa, others use id_rsa_osx
+    Hostname mobtownballroom.com

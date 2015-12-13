@@ -1,3 +1,8 @@
-- clean: []
-- link: {}
-- shell: []
+- clean: ['~']
+- link:
+   ~/.ssh/config: ssh_config
+   ~/.vimrc: vimrc
+   ~/.vim: vim
+   ~/.gitconfig: gitconfig
+- shell:
+  - [git submodule update --init --recursive, Installing submodules]

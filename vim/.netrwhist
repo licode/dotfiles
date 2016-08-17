@@ -1,8 +1,2 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/Users/dallan/Documents/Repos/pa/.ipynb_checkpoints'
-let g:netrw_dirhist_2='/Users/dallan/Documents/Repos/bluesky/__pycache__'
-let g:netrw_dirhist_3='/Users/dallan/Documents/Repos/bluesky/bluesky'
-let g:netrw_dirhist_4='/Users/dallan/Documents/Repos/bluesky/bluesky.egg-info'
-let g:netrw_dirhist_5='/Users/dallan/Documents/Repos/bluesky/conda-recipe'
-let g:netrw_dirhist_6='/Users/dallan/Documents/Repos/bluesky/cover'
+let g:netrw_dirhist_cnt =0
